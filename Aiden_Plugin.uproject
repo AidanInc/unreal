@@ -95,6 +95,11 @@
 			"Name": "EasyFileDialog",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bcf64fe2e00c48189d8385a9c39b6e61"
+		},
+		{
+			"Name": "RuntimeFilesDownloader",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e7e6df6d6e9c46f0ae35163eab67ff9a"
 		}
 	]
 }
